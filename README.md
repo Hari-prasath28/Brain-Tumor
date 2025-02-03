@@ -1,7 +1,3 @@
-I've added your contact information to the **README.md** file. Here's the final version:
-
----
-
 🧠 Brain Tumor Detection with MRI Using Deep Learning
 
 ![Brain Tumor Detection ](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MRI_Head_Side_view.jpg/640px-MRI_Head_Side_view.jpg)
